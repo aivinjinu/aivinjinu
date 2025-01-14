@@ -1,5 +1,5 @@
 # 💫 About Me:
-I simple guy who loves coding:)
+A simple guy who loves coding:)
 
 
 # 💻 Tech Stack:
